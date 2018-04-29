@@ -1,6 +1,3 @@
-# flexible.js
-响应式布局、移动web自适配
-```angularjs
 (function(win, lib) {
     var doc = win.document;
     var docEl = doc.documentElement;
@@ -118,10 +115,3 @@
     }
 
 })(window, window['lib'] || (window['lib'] = {}));
-
-
-
-
-
-
-```
